@@ -1,6 +1,6 @@
-name: 'Upload a Build Artifact'
+name: 'Old Upload'
 description: 'Upload a build artifact that can be used by subsequent workflow steps'
-author: 'GitHub'
+author: 'Yes GitHub'
 inputs: 
   name:
     description: 'Artifact name'
